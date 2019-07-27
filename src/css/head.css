@@ -1,0 +1,13 @@
+.header a.logo1 {
+  display: block;
+  width: 55%;
+  float: left;
+  padding-top: 10px; }
+
+.header {
+  background-color: #fcdb00;
+  padding: 50px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  

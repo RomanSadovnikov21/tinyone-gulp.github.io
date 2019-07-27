@@ -1,0 +1,9 @@
+@import "part";
+
+$primary-color: #fcdb00;
+
+.header {
+  background-color: $primary-color;
+  padding: 50px 0;
+  display: flex;
+}
